@@ -1,0 +1,24 @@
+.heading{
+    font-size: small;
+    font-weight: 700;
+    color: rgb(123, 123, 123);
+}
+h6{
+    color: rgb(143, 141, 141);
+    font-weight: 600;
+}
+@media (max-width:992px) {
+    .canvas{
+        display: none;
+    }
+    .offcanvas-button{
+        display: none;
+    }
+}
+.chart{
+    height: 290px;
+}
+.dot{
+    font-size: larger;
+    padding: 4px;
+}
