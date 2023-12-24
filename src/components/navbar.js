@@ -10,8 +10,8 @@ function AppNavbar({handleShow}) {
   return (
     <Navbar expand="lg" className="bg-body-tertiary bg-dark" data-bs-theme="dark">
       <Container fluid>
-        <Navbar.Brand href="#">Start Bootstrap</Navbar.Brand>
-        <Button variant="dark" className="bg-dark bg-body-tertiary offcanvas-button"  onClick={handleShow}>
+        <Navbar.Brand className='navbar-head' href="#">Start Bootstrap</Navbar.Brand>
+        <Button variant="dark" className="bg-dark bg-body-tertiary offcanvas-button "  onClick={handleShow}>
         <i class="bi bi-list"></i>
         </Button>
         

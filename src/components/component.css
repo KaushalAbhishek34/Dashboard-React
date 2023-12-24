@@ -22,3 +22,11 @@ h6{
     font-size: larger;
     padding: 4px;
 }
+.navbar-head{
+    font-weight: bolder;
+    font-size: x-large;
+    padding-top: 0%;
+}
+.btn-oc{
+    padding-left: 40px;
+}

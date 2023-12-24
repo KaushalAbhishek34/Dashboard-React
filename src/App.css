@@ -1,6 +1,6 @@
 
 .main.shifted {
-  margin-left: 240px;
+  margin-left: 200px;
   transition:  0.5s;
 }
 @media (max-width:992px) {

@@ -24,7 +24,7 @@ function App() {
       
       <Col  className={`main ${show ?'shifted': ''}`} >
         <MainContent />
-        <Footer />
+        <Footer className="footer" />
       </Col>
 
     </Container>
